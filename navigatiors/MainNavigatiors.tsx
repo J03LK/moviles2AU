@@ -8,6 +8,8 @@ import Pagina3Screens from "../screens/Pagina3Screen";
 import Pagina4Screens from "../screens/Pagina4Screens";
 import Calculadora from "../screens/Calculadora";
 import Temperatura from "../screens/Temperatura";
+import Pagina5Screen from "../screens/Pagina5Screen";
+import Pagina6Screen from "../screens/Pagina6Screen";
 const Stack = createStackNavigator();
 const Drawer = createDrawerNavigator();
 
@@ -15,11 +17,12 @@ const Drawer = createDrawerNavigator();
 function MyDrawer() {
     return (
         <Drawer.Navigator>
-            <Drawer.Screen name="Welcome ♥" component={WelcomeScreen} />
             <Drawer.Screen name="Registro ✍🏻" component={pagina1Screen} />
             <Drawer.Screen name="Json 📉" component={pagina2Screen} />
             <Drawer.Screen name="Crash 🎮" component={Pagina3Screens} />
             <Drawer.Screen name="Musica 🎧" component={Pagina4Screens} />
+            <Drawer.Screen name="API" component={Pagina5Screen} />
+            <Drawer.Screen name="API 2" component={Pagina6Screen} />
             <Drawer.Screen name="Calculadora 🔢" component={Calculadora} />
             <Drawer.Screen name="Temperatura🌡️" component={Temperatura} />
         </Drawer.Navigator>
