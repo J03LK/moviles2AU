@@ -1,0 +1,164 @@
+{
+    "musica": [
+        {
+            "id": "song1",
+            "title": "Bohemian Rhapsody",
+            "artist": {
+                "name": "Queen",
+                "genre": "Rock",
+                "year_formed": 1970
+            },
+            "album": "A Night at the Opera",
+            "year": 1975,
+            "duration": "5:55",
+            "media": {
+                "url": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
+                "cover_image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-musica/Bohemian_Rhapsody.png"
+            }
+        },
+        {
+            "id": "song2",
+            "title": "Imagine",
+            "artist": {
+                "name": "John Lennon",
+                "genre": "Pop",
+                "year_formed": 1960
+            },
+            "album": "Imagine",
+            "year": 1971,
+            "duration": "3:03",
+            "media": {
+                "url": "https://www.youtube.com/watch?v=YkgkThdzX-8",
+                "cover_image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-musica/ImagineCover.jpg"
+            }
+        },
+        {
+            "id": "song3",
+            "title": "Hotel California",
+            "artist": {
+                "name": "Eagles",
+                "genre": "Rock",
+                "year_formed": 1971
+            },
+            "album": "Hotel California",
+            "year": 1976,
+            "duration": "6:30",
+            "media": {
+                "url": "https://www.youtube.com/watch?v=EqPtz5qN7HM",
+                "cover_image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-musica/hotelcalifornia.jpg"
+            }
+        },
+        {
+            "id": "song4",
+            "title": "Smells Like Teen Spirit",
+            "artist": {
+                "name": "Nirvana",
+                "genre": "Grunge",
+                "year_formed": 1987
+            },
+            "album": "Nevermind",
+            "year": 1991,
+            "duration": "5:01",
+            "media": {
+                "url": "https://www.youtube.com/watch?v=hTWKbfoikeg",
+                "cover_image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-musica/nirvana.jpg"
+            }
+        },
+        {
+            "id": "song5",
+            "title": "Billie Jean",
+            "artist": {
+                "name": "Michael Jackson",
+                "genre": "Pop",
+                "year_formed": 1964
+            },
+            "album": "Thriller",
+            "year": 1982,
+            "duration": "4:54",
+            "media": {
+                "url": "https://www.youtube.com/watch?v=Zi_XLOBDo_Y",
+                "cover_image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-musica/billy.jpg"
+            }
+        },
+        {
+            "id": "song6",
+            "title": "Shape of You",
+            "artist": {
+                "name": "Ed Sheeran",
+                "genre": "Pop",
+                "year_formed": 2004
+            },
+            "album": "Divide",
+            "year": 2017,
+            "duration": "4:24",
+            "media": {
+                "url": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+                "cover_image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-musica/divide.png"
+            }
+        },
+        {
+            "id": "song7",
+            "title": "Rolling in the Deep",
+            "artist": {
+                "name": "Adele",
+                "genre": "Pop",
+                "year_formed": 2006
+            },
+            "album": "21",
+            "year": 2010,
+            "duration": "3:48",
+            "media": {
+                "url": "https://www.youtube.com/watch?v=rYEDA3JcQqw",
+                "cover_image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-musica/adele.jpg"
+            }
+        },
+        {
+            "id": "song8",
+            "title": "Uptown Funk",
+            "artist": {
+                "name": "Mark Ronson ft. Bruno Mars",
+                "genre": "Funk",
+                "year_formed": 2003
+            },
+            "album": "Uptown Special",
+            "year": 2014,
+            "duration": "4:30",
+            "media": {
+                "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0",
+                "cover_image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-musica/funk.jpg"
+            }
+        },
+        {
+            "id": "song9",
+            "title": "Stairway to Heaven",
+            "artist": {
+                "name": "Led Zeppelin",
+                "genre": "Rock",
+                "year_formed": 1968
+            },
+            "album": "Led Zeppelin IV",
+            "year": 1971,
+            "duration": "8:02",
+            "media": {
+                "url": "https://www.youtube.com/watch?v=QkF3oxziUI4",
+                "cover_image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-musica/led-z.jpg"
+            }
+        },
+        {
+            "id": "song10",
+            "title": "Hey Jude",
+            "artist": {
+                "name": "The Beatles",
+                "genre": "Rock",
+                "year_formed": 1960
+            },
+            "album": "Hey Jude",
+            "year": 1968,
+            "duration": "7:08",
+            "media": {
+                "url": "https://www.youtube.com/watch?v=A_MjCqQoLLA",
+                "cover_image": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-musica/heyjudejpg.jpg"
+            }
+        }
+    ]
+}

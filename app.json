@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "app-01",
+    "slug": "app-01",
+    "version": "1.0.0",
+    "orientation": "all",
+    "icon": "./assets/images/pinguino-de-navidad.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/pinguino.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/pinguino.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/pinguino.pngg"
+    }
+  }
+}
